@@ -5,8 +5,6 @@ date: "3/2/2019"
 output: html_document
 ---
 
-The purpose of this document is to develop questions for testing how well we expressed the intentions of each chapter in the [Data Science in Education](https://github.com/data-edu/data-science-in-education) project. The objectives and questions for readers are based on the narrative structure of the book, which is documented [here](https://github.com/data-edu/data-science-in-education/blob/master/README.md). 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
