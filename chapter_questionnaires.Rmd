@@ -1,0 +1,43 @@
+---
+title: "Chapter Objectives and Questionnaires"
+author: 
+date: "3/2/2019"
+output: html_document
+---
+
+The purpose of this document is to develop questions for testing how well we expressed the intentions of each chapter in the [Data Science in Education](https://github.com/data-edu/data-science-in-education) project. The objectives and questions for readers are based on the narrative structure of the book, which is documented [here](https://github.com/data-edu/data-science-in-education/blob/master/README.md). 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Chapter 6: Walkthrough 1
+
+The objectives for the walkthroughs are that 
+
+ - Readers learn steps in the analysis process
+ - Readers practice steps in the analysis process
+ - Readers get to learn by using a dataset that is plausible in their education work
+
+## Questions 
+
+How helpful was the walkthrough in learning steps in the analysis process?
+ - Extremely helpful 
+ - Very helpful 
+ - Somewhat helpful 
+ - Not so helpful 
+ - Not at all helpful 
+ 
+ How helpful was the walkthrough in practicing steps in the analysis process?
+ - Extremely helpful 
+ - Very helpful 
+ - Somewhat helpful 
+ - Not so helpful 
+ - Not at all helpful 
+ 
+Do you agree or disagree with the following: The dataset used in the example resembles a dataset I would see in my education work?
+ - Strongly agree
+ - Agree
+ - Neither agree nor disagree
+ - Disagree
+ - Strongtly disagree
