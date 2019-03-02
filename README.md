@@ -1,2 +1,3 @@
-# chapter_questionnaires
-A place to work on reader feedback questions 
+# Data Science in Education: Reader Questions to Test the Effectiveness of Each Chapter
+
+The purpose of this document is to develop questions for testing how well reached the objective of each chapter in the [Data Science in Education](https://github.com/data-edu/data-science-in-education) project. The objectives and questions for readers are based on the narrative structure of the book, which is documented [here](https://github.com/data-edu/data-science-in-education/blob/master/README.md).
